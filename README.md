@@ -48,7 +48,7 @@ Estou aberto a colaborar em projetos de código aberto para iniciantes, especial
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="[URL-DO-SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/vinicius-baggio-6950851a4/)" target="_blank">
+  <a href="https://www.linkedin.com/in/vinicius-baggio-6950851a4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </p>
